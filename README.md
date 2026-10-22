@@ -61,7 +61,7 @@ python -m unittest discover -s tests -v
 
 The program prints the PEAS description, UCS and A* schedules, their costs
 and expanded-node counts, the CSP result, backtracking trace, and logic
-query results. Detailed results are written to `results/latest_results.json`.
+query results.
 
 ## Limitations
 
