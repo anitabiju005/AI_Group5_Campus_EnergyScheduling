@@ -3,6 +3,13 @@
 
 **Group:** 5  
 **Roll numbers:** 25–30  
+TEAM MEMBERS:
+ANGEL MARY ANTONY 	(CCE23CS025)
+ANGEL ROSE PY 		(CCE23CS026)
+ANITA BIJU 			(CCE23CS027)
+ANNA GRACE RAJU 		(CCE23CS028)
+ANNA SHAJI 			(CCE23CS029)
+ANNA TOM 			(CCE23CS30)
 **Topic:** Campus Energy Scheduling  
 **SDGs:** SDG 7 – Affordable and Clean Energy; SDG 12 – Responsible Consumption and Production; SDG 13 – Climate Action
 
