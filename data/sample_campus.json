@@ -1,0 +1,49 @@
+
+{
+  "rooms": [
+    {
+      "name": "Room A",
+      "capacity": 30,
+      "equipment": ["projector"],
+      "energy_cost": 8
+    },
+    {
+      "name": "Computer Lab",
+      "capacity": 20,
+      "equipment": ["computers", "projector"],
+      "energy_cost": 12
+    },
+    {
+      "name": "Room B",
+      "capacity": 40,
+      "equipment": ["projector"],
+      "energy_cost": 6
+    }
+  ],
+  "activities": [
+    {
+      "name": "AI Lecture",
+      "students": 25,
+      "equipment": ["projector"]
+    },
+    {
+      "name": "Programming Lab",
+      "students": 18,
+      "equipment": ["computers"],
+      "fixed_slot": "11:00"
+    },
+    {
+      "name": "Project Discussion",
+      "students": 15,
+      "equipment": []
+    }
+  ],
+  "slots": ["09:00", "11:00", "14:00"],
+  "unavailable": [
+    {"room": "Room A", "slot": "11:00"}
+  ],
+  "energy_costs": {
+    "AI Lecture|Room A|09:00": 5,
+    "AI Lecture|Room B|09:00": 4
+  }
+}
